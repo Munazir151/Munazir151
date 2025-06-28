@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Frontend Developer | Tech Explorer | Passionate About Design & Code</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=munazir151&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/GitHub%20Certified-Foundation-blue?style=flat-square&logo=github" alt="GitHub Certified Badge" />
 </p>
 
 <p align="center">
@@ -17,7 +17,8 @@
 - 🔭 Currently building: **Imaan Pro – React Native Islamic App**
 - 🧠 Exploring: **AI**, **Open Source**, **Modern UI/UX**
 - 💬 Ask me about: **Frontend Development, HTML, CSS, JavaScript**
-- 📫 Reach me at: **munazir9741@gmail.com**
+- 🏅 **GitHub Foundations Certified Developer**  
+- 📧 Reach me at: **munazir9741@gmail.com**
 - ⚡ Fun fact: I once dreamed of how websites work — now I build them!
 
 ---
@@ -30,6 +31,10 @@
   &nbsp;&nbsp;
   <a href="https://instagram.com/munazir_15" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/munazir151" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" alt="GitHub" width="35" />
   </a>
 </p>
 
@@ -44,6 +49,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" alt="GitHub" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
 </p>
 
 ---
@@ -55,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munazir151&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=munazir151&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -66,13 +73,8 @@
 
 ### 🚧 Projects I’m Working On
 - 📱 **Imaan Pro** – A complete Islamic app with Quran, Dua, Qibla, Prayer Times & more.
-A modern Islamic app offering:
-- 📖 Quran, Duas, 99 Names of Allah
-- 🧭 Qibla direction, Prayer times, Wudu & Ghusl guide
-- 🧠 Islamic quiz, daily Hadith, and more
 
 > 📦 Built with: **React Native, Expo, Firebase, Figma**
-
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.munazir.imaanpro&hl=en-US" target="_blank">
@@ -81,6 +83,7 @@ A modern Islamic app offering:
 </p>
 
 ⭐ *Now available on Play Store — try it today!*
+
 ---
 
 <!---
